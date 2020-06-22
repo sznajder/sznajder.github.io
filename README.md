@@ -1,2 +1,2 @@
 # sznajder.github.io
-Andre Sznajder Homepage
+Andre Sznajder Website
